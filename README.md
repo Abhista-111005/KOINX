@@ -4,13 +4,6 @@ A responsive, interactive **Tax Loss Harvesting** dashboard built with **React +
 
 ---
 
-## 📸 Screenshots
-
-### Dark Mode
-![Dashboard Dark Mode](./public/screenshot-dark.png)
-
-### Light Mode
-![Dashboard Light Mode](./public/screenshot-light.png)
 
 ---
 
