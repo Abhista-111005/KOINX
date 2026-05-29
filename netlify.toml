@@ -1,0 +1,9 @@
+[build]
+  base    = "KoinX"
+  command = "npm run build"
+  publish = "KoinX/dist"
+
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200
